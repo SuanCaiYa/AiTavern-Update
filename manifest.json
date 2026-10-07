@@ -1,6 +1,12 @@
 {
   "packages": [
     {
+      "version": "2.2.0",
+      "versionCode": 40520,
+      "builtAt": "2026-10-07 19:34:28",
+      "note": "一键备份与恢复（全量数据导出/导入）"
+    },
+    {
       "version": "2.1.0",
       "versionCode": 40510,
       "builtAt": "2026-10-07 17:35:30",
