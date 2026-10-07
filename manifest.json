@@ -4,6 +4,12 @@
   "updatedAt": "2026-10-07 17:38:00",
   "packages": [
     {
+      "version": "2.1.0",
+      "versionCode": 40510,
+      "builtAt": "2026-10-07 17:35:30",
+      "note": "对话内消息搜索"
+    },
+    {
       "version": "2.0.1",
       "versionCode": 40501,
       "builtAt": "2026-10-07 15:57:34",
