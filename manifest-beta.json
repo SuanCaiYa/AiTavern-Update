@@ -1,8 +1,14 @@
 {
   "app": "AiTavern",
   "bundleName": "com.example.aitavern",
-  "updatedAt": "2026-10-10 23:50:34",
+  "updatedAt": "2026-10-11 02:09:21",
   "packages": [
+    {
+      "version": "2.5.0",
+      "versionCode": 40550,
+      "builtAt": "2026-10-11 02:07:53",
+      "note": "测试版更新检测（双清单+🧪卡片+独立跳过记忆）+ 聊天页流畅度（格式化缓存/Swiper分页/工具栏5+1）+ 试生成语义对齐"
+    },
     {
       "version": "2.4.0",
       "versionCode": 40540,
