@@ -1,5 +1,14 @@
 {
+  "app": "AiTavern",
+  "bundleName": "com.example.aitavern",
+  "updatedAt": "2026-10-10 23:12:38",
   "packages": [
+    {
+      "version": "2.3.1",
+      "versionCode": 40531,
+      "builtAt": "2026-10-10 22:43:01",
+      "note": "R1记忆保全+R2核心记忆层：回收站90天+记忆重映射保全、摘要截断防线、记忆重申、删除备份提醒、characters.core_memory核心记忆层(编辑UI/Prompt注入/备份/回收站/导入五链路)；真机全链路验证通过(建角色→备份→删→回收站恢复→核心记忆与梗概保全→全量恢复)"
+    },
     {
       "version": "2.2.1",
       "versionCode": 40521,
