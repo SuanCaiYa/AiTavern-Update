@@ -1,13 +1,13 @@
 {
   "app": "AiTavern",
   "bundleName": "com.example.aitavern",
-  "updatedAt": "2026-10-12 14:00:58",
+  "updatedAt": "2026-10-13 16:53:24",
   "packages": [
     {
-      "version": "2.6.1",
-      "versionCode": 40561,
-      "builtAt": "2026-10-12 14:00:32",
-      "note": "🧪 测试版：世界菜单 bindSheet 宿主冲突修复 / 工具栏右侧缝隙间距自适应 / 自动备份触发时机改自然日"
+      "version": "2.7.0",
+      "versionCode": 40570,
+      "builtAt": "2026-10-13 16:53:06",
+      "note": "🧪 测试版：主动关心（应用内离别感知 + 每日提醒）、世界意志越界书写收紧、工具栏缩进修复"
     }
   ]
 }
